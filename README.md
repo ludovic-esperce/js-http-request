@@ -83,7 +83,7 @@ La carte devra être générée en JS en manipulant le DOM (cf. fonction `create
 > [!IMPORTANT]
 > Il vous est conseillé de commencer à concevoir le rendu avec des informations "en dur" en HTML avant de vous servir des informations contenues dans le tableau de JSON.
 
-### Rêquêtage d'une web api
+### Etape 2 : rêquêtage d'une web api
 
 Vous allez maintenant changer la source des informations et utiliser un web api de test : 
 ```
