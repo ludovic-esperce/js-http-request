@@ -112,3 +112,5 @@ fetch("https://jsonplaceholder.typicode.com/users")
     console.log(users);
   });
 ```
+
+Une fois les utilisateurs récupéré il est possible de construire les composants graphiques comme précedemment.
